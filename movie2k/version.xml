@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<versioninfo>
+   <project>movie2k.to</project>
+   <version>0.0.1</version>
+   <update>
+      <file>movie2k.jpg</file>
+      <file>index.php</file>
+      <file>Movie2kTemplate.php</file>
+      <file>update.php</file>
+      <file>version.xml</file>
+   </update>
+</versioninfo>
