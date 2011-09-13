@@ -7,12 +7,12 @@
  * ------------------------*/
 
 
-$hdbox_repositoy = "http://xtreamer-web-sdk.googlecode.com/svn/trunk/rss/projects/hdbox/";
+$hdbox_repositoy = "https://github.com/chrisdenn/xVoD-Scraper-Addons-for-Xtreamer-Media-Player/tree/master/movie2k/";
 
 if ( url_exists( $hdbox_repositoy.$versionfile ) )
    $versioninfohost  = simplexml_load_file( $hdbox_repositoy.$versionfile );
 else
-   $versioninfohost  = "0.1.0";
+   $versioninfohost  = "0.0.0";
 
       /*
       Standardm‰ﬂig gibt version_compare()
